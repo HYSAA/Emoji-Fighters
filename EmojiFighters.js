@@ -21,25 +21,6 @@ fightButton.addEventListener("click", function() {
     // emoji fighters and display them as i.e. "🦀 vs 🐢" in the "stage" <div>.
 })
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // let stageEl = document.getElementById("stage-el")
 // let fightButton = document.getElementById("button-el")
 // let fighters = ["🐉", "🐥", "🐊","💩", "🦍", "🐢", "🐩", "🦭", "🦀", "🐝", "🤖", "🐘", "🐸", "🕷","🐆", "🦕", "🦁"]
